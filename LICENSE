@@ -1,0 +1,1 @@
+Changing the font via Options|Font only affects the current file.  If you want to change the default font, select Options|Configure File Types in the menu.  On the Editor Options tab, click the Edit button next to the ¡°default text layout¡± drop-down list.  There you can change the default font and other settings that determine how EditPad displays text.
